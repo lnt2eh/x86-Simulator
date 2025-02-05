@@ -126,12 +126,13 @@ CF (Carry Flag): Clear
 ````
 
 # Como Usar o Simulador
-Compile o código utilizando um compilador C adequado.
-Execute o programa.
-O programa carregará as instruções definidas em programa[] na memória.
-O simulador executará as instruções uma a uma e exibirá o estado dos registradores e flags ao final da execução.
-Possíveis Melhorias
-Implementação de operações de pilha (PUSH, POP).
-Suporte para mais instruções x86.
-Implementação de operações de manipulação de memória (como MOV de memória para registrador e vice-versa).
-Melhoria na visualização do estado da CPU e na adição de mais flags.
+* Compile o código utilizando um compilador C adequado.
+* Execute o programa.
+* O programa carregará as instruções definidas em programa[] na memória.
+* O simulador executará as instruções uma a uma e exibirá o estado dos registradores e flags ao final da execução.
+
+# Possíveis Melhorias
+* Implementação de operações de pilha (PUSH, POP).
+* Suporte para mais instruções x86.
+* Implementação de operações de manipulação de memória (como MOV de memória para registrador e vice-versa).
+* Melhoria na visualização do estado da CPU e na adição de mais flags.
