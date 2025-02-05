@@ -135,7 +135,3 @@ Implementação de operações de pilha (PUSH, POP).
 Suporte para mais instruções x86.
 Implementação de operações de manipulação de memória (como MOV de memória para registrador e vice-versa).
 Melhoria na visualização do estado da CPU e na adição de mais flags.
-
-# Licença
-Este projeto é distribuído sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
-
